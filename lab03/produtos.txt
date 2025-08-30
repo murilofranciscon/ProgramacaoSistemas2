@@ -1,0 +1,31 @@
+Teclado do professor;50;Logitech
+Mouse;35;Microsoft
+Pão de queijo;100;Borges
+Coca-cola;10;Bar do Zé
+Teclado Multimidia;200;Microsoft
+Mariana;2;BobalhonaCorp
+Labubu;1500;LabubuInc
+Tucunaré;50;Rio
+Tilápia;77;pescador
+Morango Do Amor;500;CarlinhosMaiaDoces
+Yasmin;89;Apple
+Bobbie Goods;55;Colorir
+Caderno de Surfista;35;Tilambo
+Moranguete;4;Bel
+Floflo;120;Virginia
+Betoneira Turbo;3500;Petrolinas
+Kit Jardinagem;250;Farm
+Agua de coco;8;Havaiana
+LollaPass;800;Lolapalusa
+Bone do mtst;30;Nike
+Caneta Eletrica;250;Faber
+Lapis Magnetico;75;Faber
+Caderno do Naruto;37;Tilambo
+Remedio;189;Farm
+Ice;80;Smirnoff
+Onibus;60000;Bus
+Panela de Pressao Antifurto;350;Tramontina
+Fogão Gamer RGB;2500;Brastemp
+Faca Hidraulica;99;Tramontina
+Caderno;22;Tilambo
+Aura;500;KaruhSee
